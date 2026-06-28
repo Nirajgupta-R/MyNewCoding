@@ -1,2 +1,0 @@
-# MyNewCoding
-new repo
